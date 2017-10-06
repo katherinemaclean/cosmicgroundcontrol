@@ -23,6 +23,10 @@ div.container {
  background:red;
 }
 
+#mc_embedded_subscribe_form {
+    background:red;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
