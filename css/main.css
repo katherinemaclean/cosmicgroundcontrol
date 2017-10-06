@@ -12,6 +12,10 @@ body {
 div.container {
     color: white;
 }
+
+div.mc_embed_signup {
+ color: transparent;   
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
