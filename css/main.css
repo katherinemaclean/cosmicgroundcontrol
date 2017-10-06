@@ -1,9 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-image:url("https://katherinemaclean.github.io/Cosmic-ground-control.JPG");
-    background-size:contain;
-    background-repeat:no-repeat;
+    
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
