@@ -20,11 +20,11 @@ div.container {
 
 #mc_embed_signup_scroll {
  color: white;
- background:red;
+ background:#00ffffff;
 }
 
 #mc-embedded-subscribe-form {
-    background:red;
+    background:#00ffffff;
 }
 
 nav ul, footer ul {
