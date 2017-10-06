@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    style=background-image:url("cosmic-ground-control.jpg");
+    style=background-image:url("../css/cosmic-ground-control.jpg");
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
