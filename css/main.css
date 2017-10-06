@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
     width: 100%;
     background-image:url("https://katherinemaclean.github.io/Cosmic-ground-control.JPG");
-    background-size:85%;
+    background-size:contain;
     background-repeat:no-repeat;
 }
 nav ul, footer ul {
