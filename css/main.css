@@ -14,17 +14,17 @@ div.container {
 }
 
 #mc_embed_signup {
- color: white; 
+ color: black; 
  background: red;
 }
 
 #mc_embed_signup_scroll {
  color: white;
- background:transparent;
+ background:red;
 }
 
 #mc-embedded-subscribe-form {
-    background:transparent;
+    background:red;
 }
 
 nav ul, footer ul {
